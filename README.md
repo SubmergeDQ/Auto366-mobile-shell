@@ -17,6 +17,12 @@
 2. **已安装天学网应用** 并至少打开过一次需要查看的课程
 3. **MT管理器** 或支持root执行脚本的终端
 
+## TODO
+
+- [ ] 支持使用Shizuku权限管理
+- [ ] 支持批量处理多个题型
+- [ ] 增加错误处理机制
+
 ## 快速使用
 
 ### MT管理器（推荐）
@@ -104,4 +110,4 @@ Shell/
 
 ## 许可证
 
-MIT License
+GNU GENERAL PUBLIC LICENSE Version 3
